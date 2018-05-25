@@ -42,5 +42,6 @@
 
   "debug": "n",
 
-  "another": "one"
+  "another": "one",
+  "test": "n"
 }
